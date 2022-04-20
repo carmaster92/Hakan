@@ -1,0 +1,39 @@
+.body {
+    margin: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mindesc {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #06086b;
+    text-align: center;
+}
+
+.maxdesc {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #06086b;
+}
+
+.footer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #06086b;
+}
+
+.footer p {
+    color: white;
+}
+
+.maxdescspec {
+    color: white;
+}
+
+.maxdesc a {
+    color: #06086b;
+    text-decoration: none;
+}

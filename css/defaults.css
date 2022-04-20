@@ -21,3 +21,17 @@ header {
 #navbartitle {
     margin-right: 763px;
 }
+
+.footer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #06086b;
+}
+
+.footer p {
+    color: white;
+}
